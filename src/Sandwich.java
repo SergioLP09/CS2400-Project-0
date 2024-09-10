@@ -7,6 +7,12 @@ public class Sandwich {
     private String meat;
     private double price;
 
+    /**
+    * This constructs a new Chemical
+    * @param theCode The code number for the chemical
+    * @param theName The name, or description, of the chemical
+    * @param theCost The cost for one pound of the chemical
+    */
     public Sandwich() {
         this.vegetables = "";
         this.price = 0.0;
