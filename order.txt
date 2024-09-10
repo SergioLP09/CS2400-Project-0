@@ -15,3 +15,4 @@ Sep 1, 2024, 7:59:54 PM	Craig Mcqueen	White Bread	lettuce, olives, pickles	Roa
 Sep 9, 2024, 7:59:20 PM	Sergio P	White Bread	olives	Ham	$2.60
 Sep 9, 2024, 8:32:44 PM	Duke P	White Bread	olives, pickles, cheese	Ham	$3.20
 Sep 9, 2024, 8:33:25 PM	Craig	White Bread	olives	null	$1.60
+Sep 9, 2024, 8:42:26 PM	Fred	White Bread		Turkey Breast	$2.70
