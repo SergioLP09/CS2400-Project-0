@@ -1,0 +1,17 @@
+May 17, 2024, 4:11:43 PM	Sergio Prestegui	White Bread	red onions, cheese	Ham	$3.05
+May 17, 2024, 4:13:18 PM	Dom Duke	Wheat Bread	cheese, cheese, pickles	Roast Beef	$4.20
+May 17, 2024, 4:16:55 PM	Daisy Duke	Wheat Bread	olives, olives, pickles, lettuce, green peppers, cheese	Turkey Breast	$4.05
+May 17, 2024, 4:17:33 PM	Aby P	White Bread	olives, olives, cheese	Roasted Chicken Breast	$3.30
+May 17, 2024, 4:43:46 PM	Gregory Smith	Wheat Bread	olives, tomatoes, lettuce	Roasted Chicken Breast	$3.30
+May 17, 2024, 6:35:20 PM	Serg	Wheat Bread	red onions, olives, pickles, lettuce, cheese	Turkey Breast	$3.75
+May 17, 2024, 6:38:11 PM	Chris Hansen	Organic Bread	pickles, lettuce, green peppers, tomatoes, cheese	Roast Beef	$4.85
+May 17, 2024, 8:23:02 PM	Red Dye	White Bread	green peppers, green peppers	null	$2.00
+May 17, 2024, 8:23:30 PM	Tom Reed	White Bread	olives, pickles	Turkey Breast	$2.90
+May 17, 2024, 8:25:49 PM	Dog Blue	White Bread	lettuce	Roasted Chicken Breast	$2.80
+May 17, 2024, 8:30:51 PM	Duke Doug	White Bread	olives	Roasted Chicken Breast	$2.70
+May 17, 2024, 8:35:52 PM	Sue loo	White Bread	green peppers	Roasted Chicken Breast	$2.85
+May 17, 2024, 9:15:27 PM	Fred Derf	White Bread	olives	null	$1.60
+Sep 1, 2024, 7:59:54 PM	Craig Mcqueen	White Bread	lettuce, olives, pickles	Roast Beef	$3.40
+Sep 9, 2024, 7:59:20 PM	Sergio P	White Bread	olives	Ham	$2.60
+Sep 9, 2024, 8:32:44 PM	Duke P	White Bread	olives, pickles, cheese	Ham	$3.20
+Sep 9, 2024, 8:33:25 PM	Craig	White Bread	olives	null	$1.60
