@@ -3,14 +3,14 @@
 // 05/17/2024
 import java.util.Scanner;
 
-// testing the gitpush
+
 public class SandwichApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         boolean continueOrdering = true;
         boolean selectingVegetables = true;
-        
+        // different test
         while (continueOrdering) {
             Sandwich sandwich = new Sandwich();
 
